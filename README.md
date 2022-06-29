@@ -5,3 +5,6 @@ Battery Level Percentage Using HTML,CSS &amp; JavaScript
 
 📝 NOTE: Check Battery API support.
 https://developer.mozilla.org/es/docs/Web/API/Navigator/getBattery
+
+# Charging
+![image](https://user-images.githubusercontent.com/58635762/176355512-f0fb2181-e5d1-4eb0-921e-0b88902d44c1.png)
